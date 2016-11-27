@@ -1,0 +1,4 @@
+Imagen de fondo: https://pixabay.com/es/c%C3%B3ndor-andes-colcacanon-la-libertad-1087026/
+Imagen de acerca: https://pixabay.com/es/condor-de-beb%C3%A9-con-gafas-de-sol-1805395/
+Framework web: https://getmdl.io
+Iconos vectoriales: https://material.io/icons/

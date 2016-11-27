@@ -1,0 +1,724 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"app",
+				"appointments"
+			],
+			[
+				"offi",
+				"offices"
+			],
+			[
+				"pro",
+				"project_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 1632,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/pages.css",
+			"settings":
+			{
+				"buffer_size": 409,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/cards.css",
+			"settings":
+			{
+				"buffer_size": 758,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 14833,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 8930,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "attributions.txt",
+			"settings":
+			{
+				"buffer_size": 256,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 72.0,
+		"last_filter": "comm",
+		"selected_items":
+		[
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"Title",
+				"Convert Case: Title Case"
+			],
+			[
+				"commet",
+				"Toggle Comment"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ntrrg/NtServer/HTTP/www/vultur",
+		"/home/ntrrg/NtServer/HTTP/www/vultur/css"
+	],
+	"file_history":
+	[
+		"/home/ntrrg/NtServer/HTTP/www/vultur/css/about.css",
+		"/home/ntrrg/NtServer/HTTP/www/vultur/about.html",
+		"/home/ntrrg/NtServer/Descargas/Simbolos.txt",
+		"/home/ntrrg/NtServer/HTTP/www/vultur/blog.html",
+		"/media/ntrrg/Ntrrg/Repositorios/vulturorg.github.io/vulturorg.sublime-workspace",
+		"/media/ntrrg/Ntrrg/Repositorios/cfg_toolbox/cfg_appointments_cycles/models/appt_appointment.py",
+		"/media/ntrrg/Ntrrg/Repositorios/cfg_toolbox/cfg_appointments_cycles/views/cfg_cycle_views.xml",
+		"/media/ntrrg/Ntrrg/Repositorios/cfg_toolbox/cfg_appointments_cycles/models/cfg_cycle.py",
+		"/media/ntrrg/Ntrrg/Repositorios/cfg_toolbox/cfg_appointments_cycles/__init__.py",
+		"/media/ntrrg/Ntrrg/Repositorios/cfg_toolbox/cfg_appointments_cycles/__openerp__.py",
+		"/media/ntrrg/Ntrrg/Repositorios/sinco/sinco_appointments_scheduler/views/sinco_project_templates.xml",
+		"/media/ntrrg/Ntrrg/Repositorios/sinco/sinco_appointments_scheduler/workflows/sinco_project_workflows.xml",
+		"/media/ntrrg/Ntrrg/Repositorios/sinco/sinco_appointments_scheduler/models/appt_cycle.py",
+		"/media/ntrrg/Ntrrg/Repositorios/sinco/sinco_appointments_scheduler/models/sinco_project.py",
+		"/media/ntrrg/Ntrrg/Repositorios/sinco/sinco_appointments_scheduler/controllers/main.py",
+		"/media/ntrrg/Ntrrg/Repositorios/sinco/sinco_appointments_scheduler/models/appt_appointment.py",
+		"/media/ntrrg/Ntrrg/Repositorios/sinco/sinco_appointments_scheduler/__openerp__.py",
+		"/media/ntrrg/Ntrrg/Repositorios/gms/index.html",
+		"/media/ntrrg/Ntrrg/Descargas/Vultur/logo.svg",
+		"/media/ntrrg/Ntrrg/Repositorios/gms/gms.js",
+		"/media/ntrrg/Ntrrg/Descargas/SINCO/openerp/sistema-fci/cfg_appointment/cfg_office.py",
+		"/media/ntrrg/Ntrrg/Repositorios/cfg_toolbox/cfg_appointments_cycles/models/__init__.py",
+		"/media/ntrrg/Ntrrg/Repositorios/cfg_toolbox/.gitignore",
+		"/media/ntrrg/Ntrrg/Repositorios/cfg/cfg_appointments_cycles/__init__.py",
+		"/media/ntrrg/Ntrrg/Repositorios/cfg/cfg_appointments_cycles/__openerp__.py",
+		"/media/ntrrg/Ntrrg/Repositorios/cfg/appointments_cycles/__init__.py",
+		"/media/ntrrg/Ntrrg/Repositorios/cfg/appointments_cycles/__openerp__.py",
+		"/media/ntrrg/Ntrrg/Repositorios/sinco/untitled.sublime-workspace",
+		"/media/ntrrg/Ntrrg/Repositorios/sinco/untitled.sublime-project",
+		"/home/ntrrg/Repositorios/sinco/sinco_appointments_scheduler/controllers/main.py",
+		"/home/ntrrg/Descargas/Esquema tecnológico.rst",
+		"/home/ntrrg/Repositorios/sinco/sinco_project/models/sinco_project.py",
+		"/home/ntrrg/Repositorios/sinco/sinco_appointments_scheduler/__init__.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_project/data/sinco_project_workflow.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/models/appt_place.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/models/sinco_office.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/models/appt_cycle.py",
+		"/media/ntrrg/MRepara/Lenguajes/Python/Documentación/Python.txt",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/views/sinco_project_templates.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/views/sinco_office_views.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/models/__init__.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/models/appt_place.pyc",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/controllers/main.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/views/appt_appointment_templates.xml",
+		"/media/ntrrg/MRepara/Descargas/odooModules/google_maps_snippet/views/templates.xml",
+		"/media/ntrrg/MRepara/Descargas/odooModules/google_maps_snippet/static/src/gms/gms.js",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_website/views/sinco_website_templates.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_website_project/static/src/js/sinco_website_project_registration.js",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_website_project/views/sinco_website_project_templates.xml",
+		"/media/ntrrg/MRepara/Documentos/Notas/Git.txt",
+		"/home/ntrrg/VirtualEnvs/odooEnv/map/google_maps_snippet/controllers/controllers.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/map/google_maps_snippet/views/templates.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/map/google_maps_snippet/controllers/__init__.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/map/google_maps_snippet/__openerp__.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/models/appt_appointment.py",
+		"/media/ntrrg/MRepara/Descargas/SINCO/openerp/sistema-fci/cfg_appointment/cfg_appointment.py",
+		"/media/ntrrg/MRepara/Descargas/SINCO/openerp/sistema-fci/cfg_appointment/data/cfg_office_data.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_project/models/sinco_project.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/__init__.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_website_project/controllers/main.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/models/res_partner.py",
+		"/media/ntrrg/MRepara/Descargas/odooModules/prueba/views/templates.xml",
+		"/media/ntrrg/MRepara/Descargas/odooModules/prueba/controllers/controllers.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_website_project/models/sinco_project.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/controllers/__init__.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/data/appt_appointment_data.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/data/appt_appointment_demo.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/views/appt_cycle_views.xml",
+		"/home/ntrrg/Descargas/noip-2.1.9-1/README.FIRST",
+		"/media/ntrrg/MRepara/Descargas/odooModules/google_maps_snippet/static/src/gms/README.rst",
+		"/media/ntrrg/MRepara/Descargas/odooModules/google_maps_snippet/static/js/google_maps_api.js",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/workflows/appt_appointment_workflows.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/models/appt_server.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/data/appt_cycle_views.xml",
+		"/media/ntrrg/MRepara/Descargas/odoo-entidades-territoriales-vzla/entity_parish_ve/data/res_country_parish_data.xml",
+		"/media/ntrrg/MRepara/Descargas/SINCO/openerp/sistema-fci/cfg_appointment/data/cfg_appointment_demo.xml",
+		"/media/ntrrg/MRepara/Descargas/SINCO/openerp/sistema-fci/cfg_appointment/data/cfg_operador_data.xml",
+		"/media/ntrrg/MRepara/Descargas/SINCO/openerp/sistema-fci/cfg_appointment/data/audittrail_data.xml",
+		"/media/ntrrg/MRepara/Descargas/SINCO/openerp/sistema-fci/cfg_appointment/res_partner.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/sinco/sinco_appointments_scheduler/models/sinco_appointment.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/odoo-entidades-territoriales-vzla/entity_parish_ve/__openerp__.py",
+		"/media/ntrrg/MRepara/Descargas/SINCO/openerp/sistema-fci/cfg_appointment/cfg_office.py",
+		"/media/ntrrg/7FF8225947691690/Repositorios/NtMail/README.md",
+		"/home/ntrrg/Repositorios/appointments_scheduler/appointments_scheduler/i18n/es_VE.po",
+		"/home/ntrrg/Repositorios/appointments_scheduler/appointments_scheduler/i18n/appointments_scheduler.pot",
+		"/home/ntrrg/Descargas/SINCO/openerp/sistema-fci/cfg_appointment/i18n/cfg_appointment.pot",
+		"/home/ntrrg/Descargas/SINCO/openerp/sistema-fci/cfg_appointment/i18n/es_VE.po",
+		"/home/ntrrg/Descargas/SINCO/Errores.txt",
+		"/home/ntrrg/Descargas/es_VE.po",
+		"/home/ntrrg/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/ntrrg/Repositorios/sinco/sinco_project/__openerp__.py",
+		"/home/ntrrg/Repositorios/sinco/requirements.txt",
+		"/home/ntrrg/Repositorios/appointments_scheduler/appointments_scheduler/__openerp__.py",
+		"/home/ntrrg/Repositorios/appointments_scheduler/CHANGELOG",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/models/appt_reference_config.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/views/appt_server_config_views.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/models/appt_period.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/views/appt_period_views.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/models/appt_server_config.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/models/__init__.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/models/appt_place.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/models/appt_reference.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/models/appt_client.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/views/appt_appointment_views.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/models/appt_cycle.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/models/appt_appointment.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/__init__.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/models/appt_special_day.py",
+		"/home/ntrrg/VirtualEnvs/odooEnv/odoo/addons/mail/views/mail_template_views.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/odoo/addons/mail/views/mail_templates.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/odoo/addons/mail/views/res_config_views.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/odoo/addons/mail/views/mail_mail_views.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/odoo/openerp/addons/base/base_data.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/odoo/openerp/addons/base/base_menu.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler/workflows/appt_appointment_workflows.xml",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/.gitignore",
+		"/home/ntrrg/.config/sublime-text-3/Packages/User/Flake8Lint.sublime-settings",
+		"/home/ntrrg/.config/sublime-text-3/Packages/Python Flake8 Lint/Flake8Lint.sublime-settings",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler.sublime-workspace",
+		"/home/ntrrg/VirtualEnvs/odooEnv/appointments_scheduler/appointments_scheduler.sublime-project",
+		"/media/ntrrg/MRepara/Lenguajes/Python/Documentación/Odoo/Odoo.rst",
+		"/media/ntrrg/MRepara/Documentos/Notas/Aplicaciones Linux.txt",
+		"/media/ntrrg/MRepara/Descargas/Instalar.txt",
+		"/home/ntrrg/VirtualEnvs/odooEnv/odoo/doc/index.rst"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/ntrrg/VirtualEnvs/odooEnv/sinco"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			" cards-section",
+			"blog",
+			"mdl-cell--8-col-tablet ",
+			"blog-section",
+			"h1",
+			".",
+			"<strong>",
+			":",
+			"cover",
+			"#\">Acerca",
+			"\".\"",
+			"Blog",
+			"blog",
+			"info-picture-1",
+			"image-1",
+			"share-post",
+			"share-post-2",
+			"share-post-1",
+			"blog-title",
+			"images",
+			"body-page",
+			"font-family",
+			"portfolio-example01.html",
+			"share-post-1",
+			"4",
+			"Artículo",
+			"share-post-1",
+			"rgba(0,0,0,.54)",
+			"ul",
+			"12-col-tablet",
+			"article-",
+			"{\n",
+			"portfolio-card",
+			".portfolio-card",
+			"span",
+			"0",
+			".portfolio-max-width",
+			"^(0?|\\+58)(4[12][24-8]|2\\d{2})\\-?\\d{7}$",
+			"^(0?|\\+58)(4[12][246]|415|417|418|212|248|281|282|283|292|247|278|243|244|245|246|273|278|284|285|286|288|241|242|245|249|258|287|259|268|269|279|235|238|246|247|251|253|271|274|275|212|234|239|287|291|292|295|255|256|257|272|293|294|275|276|277|271|272|212|253|254|262|263|264|265|267|271|275)\\-?\\d{7}$",
+			" ",
+			", ",
+			" - ",
+			" El Codigo es:",
+			" - ",
+			"^(0?|\\+58)\\d{3}\\-?\\d{7}$",
+			" ",
+			"^(0?|\\+58)(4[12][246]|)\\-?\\d{7}$",
+			" ",
+			" - ",
+			"Subcycles",
+			"Cycles",
+			", ",
+			"appt.cycle",
+			"appt_cycle",
+			"appt_",
+			"appt.cycle",
+			"appt.",
+			"create",
+			", ",
+			"end_date",
+			"self.obpp_id",
+			"office",
+			"type_",
+			"offi",
+			"office",
+			"parish",
+			"obpp",
+			"utm",
+			"map",
+			"Map",
+			"merge",
+			"type",
+			"request",
+			"project_id",
+			"**kwargs",
+			"'",
+			"\"",
+			"'",
+			"proyectos/registro",
+			"  />",
+			"/>",
+			"ssh",
+			"pull",
+			"demo_cycle_1",
+			", ",
+			",",
+			"cfg_picp",
+			"),",
+			"'",
+			",",
+			"_nombre_apellido",
+			"julio_yamarte",
+			"clientes",
+			"lugares",
+			"clientes",
+			"appt.place",
+			"sinco_office",
+			"sinco.office",
+			"appt.appointment",
+			"appt_appointment",
+			"Appointments",
+			"),",
+			"fields.",
+			", select=1",
+			" select=1",
+			"'",
+			"':",
+			"'",
+			"werkzeug",
+			"demo_",
+			"appointment_",
+			"Estrucutras",
+			"Schedule structures",
+			"chedules",
+			" -->\n",
+			"Periods",
+			"ycles",
+			"Special days",
+			"Client's config",
+			"Transitions",
+			"Activitys",
+			"appt_appointment_activity_",
+			"appt_appointment_activity_active",
+			"appoitnments",
+			"appt_appointment_workflow",
+			"obpp",
+			"cancel",
+			"obpp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1372,
+								1372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1404.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/pages.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								409,
+								409
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/cards.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3882,
+								3360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1571.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1433,
+								1433
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 658.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "attributions.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vulturorg.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Repositorios/appointments_scheduler/appointments_scheduler.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 140.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

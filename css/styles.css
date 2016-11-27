@@ -1,0 +1,111 @@
+.no-display {
+    display: none;
+}
+
+.no-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.mdl-layout {
+    background-image: url(../img/background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/* Cabecera */
+
+.mdl-layout__header-row {
+    padding: 0;
+    -webkit-justify-content: center;
+              -ms-flex-pack: center;
+            justify-content: center;
+}
+
+    /* Logo */
+
+.logo-row {
+    min-height: 200px;
+}
+
+        /* Imagen */
+
+.mdl-layout__title img {
+    height: 150px;
+
+    margin-bottom: 5px;
+}
+
+        /* Nombre */
+
+.mdl-layout__title span {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+    /* Barra de navegación */
+
+.navbar-row {
+    background-color: rgba(0, 0, 0, 0.08);
+}
+
+.navbar-row .mdl-navigation {
+    width: 100%;
+    max-width: 700px;
+}
+
+.navbar-row .mdl-navigation__link {
+    font-size: 1.2em;
+    line-height: 2em;
+    text-align: center;
+    text-transform: uppercase;
+    -webkit-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+}
+
+.navbar-row .is-active {
+    border-bottom: 2px solid rgb(68, 138, 255);
+    font-weight: bold;
+}
+
+    /* Barra compactada */
+
+.is-compact .logo-row {
+    min-height: 70px;
+}
+
+.is-compact .mdl-layout__title img {
+    display: none;
+}
+
+.is-compact .mdl-layout__title span a {
+    display: inline;
+}
+
+.is-compact ~ main {
+    padding-top: 3em;
+}
+
+/* Pie de página */
+
+footer {
+    background: #222 !important;
+}
+
+footer .mdl-logo {
+    font-size: large;
+    font-weight: bold;
+}
+
+
+
+.portfolio-contact .mdl-textfield {
+    width: 100%;
+}
+
+.portfolio-contact form {
+    max-width: 550px;
+    margin: auto;
+}

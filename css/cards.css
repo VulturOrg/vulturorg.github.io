@@ -1,0 +1,53 @@
+.cards-section {
+    width: 80vw;
+
+    margin: auto;
+}
+
+.mdl-card__actions button {
+    color: rgb(68, 138, 255);
+    float: right;
+}
+
+/* Artículos */
+
+.mdl-card__title {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.post-metadata {
+    font-size: smaller;
+    padding-bottom: 0px;
+}
+
+.post-metadata .material-icons {
+    font-size: small;
+}
+
+/* Imagenes */
+
+.image-card {
+    min-height: 50vh;
+
+    background-position: center;
+    background-size: cover;
+}
+
+.image-card .mdl-card__actions {
+    height: 52px;
+
+    background: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    padding: 16px;
+}
+
+.image-card .mdl-card__actions button {
+    margin-top: -5px;
+
+    color: #fff;
+}
+
+.image-card .image-metadata {
+    color: rgba(0, 0, 0, 0.87);
+    padding: 1em;
+}

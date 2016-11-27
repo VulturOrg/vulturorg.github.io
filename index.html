@@ -1,0 +1,362 @@
+<!doctype html>
+<!--
+  Material Design Lite
+  Copyright 2015 Google Inc. All rights reserved.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License
+-->
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+  <meta name="description" content="Somos una organización dedicada al análisis, diseño y desarrollo de software.">
+
+  <title>Vultur</title>
+
+  <!-- MDL -->
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=es">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.blue_grey-blue.min.css">
+
+  <!-- /MDL -->
+
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/pages.css" />
+  <link rel="stylesheet" href="css/cards.css" />
+</head>
+
+<body>
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+
+  <!-- Cabecera -->
+
+  <header class="mdl-layout__header mdl-layout__header--waterfall mdl-layout__header--transparent">
+    <div class="mdl-layout__header-row logo-row">
+      <span class="mdl-layout__title">
+        <img src="img/logo.png" />
+        <span class="mdl-layout__title">
+          VULTUR
+
+          <a id="go-top" class="material-icons no-link no-display" href="#top">arrow_upward</a>
+          <div class="mdl-tooltip mdl-tooltip--large" for="go-top">
+            Ir al inicio
+          </div>
+        </span>
+      </span>
+    </div>
+
+    <div class="mdl-layout__header-row navbar-row mdl-layout--large-screen-only">
+      <nav class="mdl-navigation mdl-typography--body-1-force-preferred-font">
+        <a class="mdl-navigation__link is-active" href="/vultur/">Inicio</a>
+        <a class="mdl-navigation__link" href="about.html">Acerca</a>
+        <a class="mdl-navigation__link" href="#blog-section">Blog</a>
+        <a class="mdl-navigation__link" href="#news-section">Noticias</a>
+        <a class="mdl-navigation__link" href="#">Contacto</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- /Cabecera -->
+
+
+
+  <!-- Menú lateral -->
+
+  <div class="mdl-layout__drawer mdl-layout--small-screen-only">
+    <nav class="mdl-navigation mdl-typography--body-1-force-preferred-font">
+      <a class="mdl-navigation__link is-active" href="/vultur/">Inicio</a>
+      <a class="mdl-navigation__link" href="about.html">Acerca</a>
+      <a class="mdl-navigation__link" href="#blog-section">Blog</a>
+      <a class="mdl-navigation__link" href="#news-section">Noticias</a>
+      <a class="mdl-navigation__link" href="#">Contacto</a>
+    </nav>
+  </div>
+
+  <!-- /Menú lateral -->
+
+
+
+  <main class="mdl-layout__content">
+    <a name="top"></a>
+
+    <!-- Cuerpo de la página -->
+
+    <!-- <section id="projects-section" class="mdl-grid cards-section">
+      <h1 id="projects-section-title" class="section-title"><a href="#" class="no-link">Proyectos</a></h1>
+
+      <div class="mdl-tooltip mdl-tooltip--large" for="projects-section-title">
+        Ir a nuestros proyectos
+      </div>
+
+
+      <a class="mdl-button mdl-button--raised mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent view-more-button" href="#">Ver más <i class="material-icons">keyboard_arrow_right</i></a>
+    </section> -->
+
+    <section id="blog-section" class="mdl-grid cards-section">
+      <h1 id="blog-section-title" class="section-title"><a href="#" class="no-link">Blog</a></h1>
+
+      <div class="mdl-tooltip mdl-tooltip--large" for="blog-section-title">
+        Ir al blog
+      </div>
+
+      <!-- Artículo -->
+
+      <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col mdl-grid mdl-grid--no-spacing">
+        <div class="mdl-card__media mdl-cell mdl-cell--4-col mdl-cell--hide-phone" style="background-image: url('img/shotcorn.jpg')"></div>
+
+        <div class="mdl-cell mdl-cell--8-col mdl-cell--4-col-tablet">
+          <div class="mdl-card__title">
+            <h2 class="mdl-card__title-text">Título</h2>
+          </div>
+
+          <div class="mdl-card__supporting-text post-metadata">
+            <i class="material-icons">folder</i> Tecnología<br />
+            <i class="material-icons">label</i> Python, Pelican, Blog<br />
+            <i class="material-icons">person</i> Vultur Gryphus<br />
+            <i class="material-icons">access_time</i> 10:00 15/11/2016
+          </div>
+
+          <div class="mdl-card__supporting-text post-description">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          </div>
+        </div>
+
+        <div class="mdl-card__actions mdl-card--border">
+          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="#">Seguir leyendo</a>
+
+          <button id="share-blog-1" class="mdl-button mdl-js-button mdl-button--icon">
+            <i class="material-icons">share</i>
+          </button>
+
+          <ul class="mdl-menu mdl-menu--top-right mdl-js-menu mdl-js-ripple-effect" data-mdl-for="share-blog-1">
+            <li class="mdl-menu__item">Facebook</li>
+            <li class="mdl-menu__item">Twitter</li>
+            <li class="mdl-menu__item">Google+</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- /Artículo -->
+
+
+
+      <!-- Artículo simple -->
+
+      <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet">
+        <div class="mdl-card__title">
+          <h2 class="mdl-card__title-text">Título</h2>
+        </div>
+
+        <div class="mdl-card__supporting-text post-metadata">
+          <i class="material-icons">folder</i> Tecnología<br />
+          <i class="material-icons">label</i> Python, Pelican, Blog<br />
+          <i class="material-icons">person</i> Vultur Gryphus<br />
+          <i class="material-icons">access_time</i> 10:00 15/11/2016
+        </div>
+
+        <div class="mdl-card__supporting-text post-description">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </div>
+
+        <div class="mdl-card__actions mdl-card--border">
+          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="#">Seguir leyendo</a>
+
+          <button id="share-blog-2" class="mdl-button mdl-js-button mdl-button--icon">
+            <i class="material-icons">share</i>
+          </button>
+
+          <ul class="mdl-menu mdl-menu--top-right mdl-js-menu mdl-js-ripple-effect" data-mdl-for="share-blog-2">
+            <li class="mdl-menu__item">Facebook</li>
+            <li class="mdl-menu__item">Twitter</li>
+            <li class="mdl-menu__item">Google+</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- /Artículo simple -->
+
+
+
+      <!-- Imagen -->
+
+      <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet image-card" style="background-image: url('img/about.jpg')">
+        <div class="mdl-card__title mdl-card--expand"></div>
+        <div class="mdl-card__actions">
+          <span>We're <strong>Vultur</strong> Bitches! 😎</span>
+
+          <!-- Botón de compartir -->
+
+          <button id="share-blog-3" class="mdl-button mdl-js-button mdl-button--icon">
+            <i class="material-icons">share</i>
+          </button>
+
+          <ul class="mdl-menu mdl-menu--top-right mdl-js-menu mdl-js-ripple-effect" data-mdl-for="share-blog-3">
+            <li class="mdl-menu__item">Facebook</li>
+            <li class="mdl-menu__item">Twitter</li>
+            <li class="mdl-menu__item">Google+</li>
+          </ul>
+
+          <!-- /Botón de compartir -->
+
+
+
+          <!-- Botón de metadatos -->
+
+          <button id="info-blog-3" class="mdl-button mdl-js-button mdl-button--icon">
+            <i class="material-icons">info</i>
+          </button>
+
+          <div class="mdl-menu mdl-menu--top-right mdl-js-menu mdl-js-ripple-effect image-metadata" data-mdl-for="info-blog-3">
+            Fotografía de Vultur Gryphus.
+          </div>
+
+          <!-- /Botón de metadatos -->
+
+
+
+          <!-- Botón para ver la imágen -->
+
+          <button class="mdl-button mdl-js-button mdl-button--icon">
+            <i class="material-icons">fullscreen</i>
+          </button>
+
+          <!-- Botón para ver la imágen -->
+
+        </div>
+      </div>
+
+      <!-- /Imagen -->
+
+      <a class="mdl-button mdl-button--raised mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent view-more-button" href="#">Ver más <i class="material-icons">keyboard_arrow_right</i></a>
+    </section>
+
+
+
+    <section id="news-section" class="mdl-grid cards-section">
+      <h1 id="news-section-title" class="section-title"><a href="#" class="no-link">Noticias</a></h1>
+
+      <div class="mdl-tooltip mdl-tooltip--large" for="news-section-title">
+        Ir a las noticias
+      </div>
+
+      <!-- Artículo -->
+
+      <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col mdl-grid mdl-grid--no-spacing">
+        <div class="mdl-card__media mdl-cell mdl-cell--4-col mdl-cell--hide-phone" style="background-image: url('img/shotcorn.jpg')"></div>
+
+        <div class="mdl-cell mdl-cell--8-col mdl-cell--4-col-tablet">
+          <div class="mdl-card__title">
+            <h2 class="mdl-card__title-text">Título</h2>
+          </div>
+
+          <div class="mdl-card__supporting-text post-metadata">
+            <i class="material-icons">folder</i> Tecnología<br />
+            <i class="material-icons">label</i> Python, Pelican, Blog<br />
+            <i class="material-icons">person</i> Vultur Gryphus<br />
+            <i class="material-icons">access_time</i> 10:00 15/11/2016
+          </div>
+
+          <div class="mdl-card__supporting-text post-description">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          </div>
+        </div>
+
+        <div class="mdl-card__actions mdl-card--border">
+          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="#">Seguir leyendo</a>
+
+          <button id="share-news-1" class="mdl-button mdl-js-button mdl-button--icon">
+            <i class="material-icons">share</i>
+          </button>
+
+          <ul class="mdl-menu mdl-menu--top-right mdl-js-menu mdl-js-ripple-effect" data-mdl-for="share-news-1">
+            <li class="mdl-menu__item">Facebook</li>
+            <li class="mdl-menu__item">Twitter</li>
+            <li class="mdl-menu__item">Google+</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- /Artículo -->
+
+
+
+      <!-- Artículo simple -->
+
+      <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col">
+        <div class="mdl-card__title">
+          <h2 class="mdl-card__title-text">Título</h2>
+        </div>
+
+        <div class="mdl-card__supporting-text post-metadata">
+          <i class="material-icons">folder</i> Tecnología<br />
+          <i class="material-icons">label</i> Python, Pelican, Blog<br />
+          <i class="material-icons">person</i> Vultur Gryphus<br />
+          <i class="material-icons">access_time</i> 10:00 15/11/2016
+        </div>
+
+        <div class="mdl-card__supporting-text post-description">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </div>
+
+        <div class="mdl-card__actions mdl-card--border">
+          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="#">Seguir leyendo</a>
+
+          <button id="share-news-2" class="mdl-button mdl-js-button mdl-button--icon">
+            <i class="material-icons">share</i>
+          </button>
+
+          <ul class="mdl-menu mdl-menu--top-right mdl-js-menu mdl-js-ripple-effect" data-mdl-for="share-news-2">
+            <li class="mdl-menu__item">Facebook</li>
+            <li class="mdl-menu__item">Twitter</li>
+            <li class="mdl-menu__item">Google+</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- /Artículo simple -->
+
+      <a class="mdl-button mdl-button--raised mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent view-more-button" href="#">Ver más <i class="material-icons">keyboard_arrow_right</i></a>
+    </section>
+
+    <!-- /Cuerpo de la página -->
+
+
+
+    <!-- Pie de página -->
+
+    <footer class="mdl-mini-footer">
+      <div class="mdl-mini-footer__left-section">
+        <div class="mdl-logo">A.C. Vultur R.L.</div>
+      </div>
+
+      <div class="mdl-mini-footer__right-section">
+        <ul class="mdl-mini-footer__link-list">
+          <li><a href="#">Ayuda</a></li>
+          <li><a href="#">Terminos y condiciones</a></li>
+        </ul>
+      </div>
+    </footer>
+
+    <!-- /Pie de página -->
+
+  </main>
+</div>
+
+  <!-- MDL -->
+  <script src="https://code.getmdl.io/1.2.1/material.min.js"></script>
+</body>
+
+</html>
